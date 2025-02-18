@@ -1,5 +1,7 @@
 env
 data/
+dogImages/
+*.zip
 
 
 # Byte-compiled / optimized / DLL files

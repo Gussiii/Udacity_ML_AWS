@@ -1,0 +1,1 @@
+{"RuleTriggered": 0, "Violations": 0, "Details": {"ratio": {}, "phase": {"Step:ModeKeys.TRAIN": 51.40578515865878, "others": 42.74457967675662, "Step:ModeKeys.EVAL": 5.8496351645845985}, "phase_time": {}, "general": {"Forward": 100.0}}, "Datapoints": 0, "RuleParameters": ""}
